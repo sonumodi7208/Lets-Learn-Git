@@ -9,7 +9,7 @@ public class FindGCDExample1 {
                 //storing the variable i in the variable gcd  
                 gcd = i;
         }
-        //prints the gcd  
+        //prints the gcd  (Greatest Common Divisor)
         System.out.printf("GCD of %d and %d is: %d", x, y, gcd);
     }
 }
